@@ -1,2 +1,3 @@
-# K-Means Clustering
- heres my little project on kmeans clustering algo, i made this during my learning DataScience 
+## K-Means Clustering
+
+ Heres my little project on kmeans clustering ML algo, I made this as I'm learning DataScience!
